@@ -1,6 +1,6 @@
 # A Basic Platformer / Side Scroller Game
-
-- The project is kind of **incomplete**. This was my first ever project >///<
+- This was my first ever project >///<
+- **Incomplete-ish Project**.
 - It uses C with raylib.
 - I got free assets in the `assets` directory from [here](https://craftpix.net/freebies/filter/sprites/).
 
