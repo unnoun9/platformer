@@ -1,4 +1,4 @@
-# A basic Platformer game
+# A Basic Platformer / Side Scroller Game
 
 - The project is kind of incomplete.
 - It uses C with raylib.
